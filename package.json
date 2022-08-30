@@ -1,0 +1,17 @@
+{
+  "name": "aula03sdm2808",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "faker-br": "^0.4.1",
+    "lodash": "^4.17.21"
+  }
+}
